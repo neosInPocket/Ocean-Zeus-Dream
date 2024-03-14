@@ -9,4 +9,5 @@ public class DataControl
 	public bool isSounds;
 	public int firstUpgradeValue;
 	public int secondUpgradeValue;
+	public bool instructed;
 }

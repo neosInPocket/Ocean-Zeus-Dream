@@ -2189,9 +2189,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05b44e76c53000142b60b6545726bad0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameString: first upgrade
-  descript: first upgrade desc
-  price: 100
+  nameString: BALL SPEED
+  descript: DECREASES SPEED BY 10 PERCENT WITH EACH UPGRADE LEVEL ACQUIRED
+  price: 20
   priceText: {fileID: 1949142946}
   descriptText: {fileID: 1856792406}
   nameText: {fileID: 334789873}
@@ -4130,14 +4130,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6feb0f3cba7a0cb46be29193cf58a628, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resetOnPlay: 1
+  resetOnPlay: 0
   resetControls:
     playerProgress: 1
-    playerCoinsValues: 123
+    playerCoinsValues: 14444
     isMusic: 1
     isSounds: 1
     firstUpgradeValue: 0
     secondUpgradeValue: 0
+    instructed: 0
 --- !u!4 &1135449762
 Transform:
   m_ObjectHideFlags: 0
@@ -4208,9 +4209,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05b44e76c53000142b60b6545726bad0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameString: second upgrade
-  descript: second upgrade desc
-  price: 200
+  nameString: ASTERIODS SPEED
+  descript: REDUCES AVERAGE SPEED OF ASTERIODS BY 5 PERCENT WITH EACH UPGRADE LEVEL
+  price: 30
   priceText: {fileID: 766842775}
   descriptText: {fileID: 1747602290}
   nameText: {fileID: 555492578}
