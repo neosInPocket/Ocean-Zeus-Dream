@@ -4133,7 +4133,7 @@ MonoBehaviour:
   resetOnPlay: 0
   resetControls:
     playerProgress: 1
-    playerCoinsValues: 14444
+    playerCoinsValues: 10
     isMusic: 1
     isSounds: 1
     firstUpgradeValue: 0
