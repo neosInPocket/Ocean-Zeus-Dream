@@ -14,7 +14,7 @@ public class InstructionsChannel : MonoBehaviour
 	{
 		gameObject.SetActive(true);
 		Touch.onFingerDown += Pass1;
-		textSheet.text = "WELCOME TO GREEK PLINKOS!";
+		textSheet.text = "WELCOME TO Ocean Zeus Dream!";
 	}
 
 	private void Pass1(Finger finger)

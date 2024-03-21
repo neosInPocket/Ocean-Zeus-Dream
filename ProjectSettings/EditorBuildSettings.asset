@@ -11,5 +11,53 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameplayScene.unity
     guid: 9ac1eff136f9e9941a03e52e66add538
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene.unity
+    guid: 37aaae3c70464e24cbeaccd08270a3be
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 1.unity
+    guid: bed360afb2ad75d4fb1071225c405dc6
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 2.unity
+    guid: 4bf765d1569c5c943918da4b61f926e6
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 3.unity
+    guid: a8368cdfac55740448fa08130a0ce3be
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 4.unity
+    guid: 2de5e1cb0f7de63418d32721089cccaf
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 5.unity
+    guid: 84e80eeaf36bec84694ed14c489163ee
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 6.unity
+    guid: fb9c183a390eb25488ff3c8e8ffc796b
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 7.unity
+    guid: c4d297752b870514dad6428e31cfb11c
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 8.unity
+    guid: 083e71c6954ebc1419e2265d3a65365f
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 9.unity
+    guid: b5afcd8ea1d23724d80a11a99365b358
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 10.unity
+    guid: 173fbad5bab7f1f4b8821636f6ba0df3
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 11.unity
+    guid: 6ffe44fb4c85d9d4c94ab99bddc4d9f1
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 12.unity
+    guid: f492b2c7920dc6e4e927eb05e63a3236
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 13.unity
+    guid: 6cd86610f7be5a44993e5a89ab14ba85
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 14.unity
+    guid: fe026e9d3bee3ae46b90b61fea92ad38
+  - enabled: 1
+    path: Assets/Scenes/SampleZeusScene 15.unity
+    guid: 53690e12262d0d44eaf4449414334504
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: db1cbd1d2227761438d2a699bd5015f2, type: 2}

@@ -549,7 +549,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 67.9
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1679,7 +1679,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: GREEK PLINKO
+  m_text: Ocean Zeus Dream
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c40fc569a910bee429dc3c48a1a52ad6, type: 2}
   m_sharedMaterial: {fileID: 1260079845197116803, guid: c40fc569a910bee429dc3c48a1a52ad6, type: 2}
@@ -1706,7 +1706,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 155.5
+  m_fontSize: 141.25
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2954,7 +2954,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.1523897, y: 0.1278678}
   m_AnchorMax: {x: 0.8476103, y: 0.478}
-  m_AnchoredPosition: {x: -0.000030517578, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &763546851
@@ -4562,7 +4562,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.1523897, y: 0.522}
   m_AnchorMax: {x: 0.8476103, y: 0.87213224}
-  m_AnchoredPosition: {x: -0.000030517578, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1323754118
@@ -5132,7 +5132,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 4
-  m_AspectRatio: 0.56287426
+  m_AspectRatio: 0.46191406
 --- !u!114 &1572682471
 MonoBehaviour:
   m_ObjectHideFlags: 0
